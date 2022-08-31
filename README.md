@@ -7,4 +7,6 @@ Prevent application from data leakage via background screenshot
 
 For more info visit :
 
-#Apple developer documentation - https://developer.apple.com/documentation/uikit/app_and_environment/scenes/preparing_your_ui_to_run_in_the_background
+* [Apple developer documentation](https://developer.apple.com/documentation/uikit/app_and_environment/scenes/preparing_your_ui_to_run_in_the_background)
+
+* [OWASP mobile security](https://owasp.org/www-project-mobile-top-10/)
